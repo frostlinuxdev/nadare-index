@@ -1,0 +1,23 @@
+{
+  "background": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/launcher_background_img/1d85e6131489d6d173208a5214a231cd.png",
+  "banners": [
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/b7b9d2a62044bfd3e2d49e5247e2c146.png",
+      "url": ""
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/2b9a80cb4fe0cc5b571b8887b7f8e2a8.png",
+      "url": ""
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/369ba31cc56aebf69e3dec86e1369bea.png",
+      "url": ""
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/ce46ecd39fb9814ea83e55cc74c3f49b.png",
+      "url": "https://arknights.global/news/4874"
+    }
+  ],
+  "game_tag": "Arknights_EN",
+  "generated_at": "2026-10-15T07:55:50+00:00"
+}

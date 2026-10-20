@@ -1,0 +1,14 @@
+{
+  "Arknights_EN": {
+    "media": "Arknights_EN.media.json",
+    "sha256": "1fe33e1787ee2c08b77ccdddfed5b4648622167bc30963653b7e6d238db63818",
+    "url": "Arknights_EN.json",
+    "version": "042.0.0"
+  },
+  "StellaSora_EN": {
+    "media": "StellaSora_EN.media.json",
+    "sha256": "33ef1173aa2309ac5f28eb3c0787447eb8c0ffbf336dec732924bdeac700ebf8",
+    "url": "StellaSora_EN.json",
+    "version": "1.13.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "background": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/launcher_background_img/7b7af4a97e6b7437e7098084a417fafe.png",
+  "banners": [
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/2f88e72b1ea7eca9ab6e4336e5eadbe5.png",
+      "url": "https://stellasora.global/news/1930"
+    },
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/948b6dc255973e87203c02e44ec68f6c.png",
+      "url": "https://stellasora.global/news/4787"
+    },
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/9a9080ad08a591ffcbde76bd00cc017d.png",
+      "url": "https://stellasora.global/news/4770"
+    },
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/cda073fdd110f3f27e12dda4b4874623.png",
+      "url": "https://stellasora.global/news/4729"
+    },
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/35ad5a247488000ac21ac5ae4f6d1acc.png",
+      "url": "https://stellasora.global/news/1767"
+    },
+    {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/2bbbe38345e2320898e2f3cce689266d.png",
+      "url": "https://stellasora.global/news/1768"
+    }
+  ],
+  "game_tag": "StellaSora_EN",
+  "generated_at": "2026-10-12T18:15:49+00:00"
+}
