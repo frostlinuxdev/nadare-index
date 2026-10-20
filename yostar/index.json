@@ -7,8 +7,8 @@
   },
   "StellaSora_EN": {
     "media": "StellaSora_EN.media.json",
-    "sha256": "33ef1173aa2309ac5f28eb3c0787447eb8c0ffbf336dec732924bdeac700ebf8",
+    "sha256": "2f33bb2176b73b46bdcef022f584bc4c38c2da667b3545c64798e403c1005db6",
     "url": "StellaSora_EN.json",
-    "version": "1.13.0"
+    "version": "2.0.0"
   }
 }

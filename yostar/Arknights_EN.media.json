@@ -16,8 +16,16 @@
     {
       "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/ce46ecd39fb9814ea83e55cc74c3f49b.png",
       "url": "https://arknights.global/news/4874"
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/96a1976c92a3904053ee8b337c446c89.png",
+      "url": "https://yostar.store/collections/arknights"
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/d92ba4fe3dba7df30803e33754522b5f.png",
+      "url": "https://yostar.store/collections/arknights"
     }
   ],
   "game_tag": "Arknights_EN",
-  "generated_at": "2026-10-15T07:55:50+00:00"
+  "generated_at": "2026-10-20T08:49:02+00:00"
 }
