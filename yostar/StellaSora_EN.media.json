@@ -6,6 +6,10 @@
       "url": "https://stellasora.global/news/1930"
     },
     {
+      "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/c8651ee36e6ba2cf81f40a1b814b73f2.png",
+      "url": "https://stellasora.global/news/4989"
+    },
+    {
       "image": "https://launcher-pkg-ss-en.yo-star.com/prod/StellaSora_EN/banner/72945e23788841b05ef3470614a70f7c.png",
       "url": "https://stellasora.global/news/4963"
     },
@@ -23,5 +27,5 @@
     }
   ],
   "game_tag": "StellaSora_EN",
-  "generated_at": "2026-10-20T09:07:47+00:00"
+  "generated_at": "2026-10-25T04:07:13+00:00"
 }
