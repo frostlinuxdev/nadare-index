@@ -1,8 +1,8 @@
 {
   "notices": [
     {
-      "id": "nikke-launcher-2026-11b",
-      "text": "NIKKE's PC launcher was compromised through the publisher's servers; the attacker's agent was served from Nov 1. Two of three bad files are fixed, no official statement yet. If you opened it since Nov 1, search debug.log for k2f_chan. Nadare won't start it.",
+      "id": "nikke-launcher-2026-11c",
+      "text": "NIKKE's PC launcher was compromised via the publisher's servers: bad scripts since Sep 27, and on some launches (seen from Oct 24) a remote-control agent. Partly fixed, no official word. If you opened it since Sep 27, search debug.log for k2f_chan. Nadare won't start it.",
       "severity": "block",
       "kinds": [
         "launcher-nikke"
