@@ -1,0 +1,10 @@
+{
+  "releases": {
+    "0.1.0b20": {
+      "x86_64": {
+        "sha256": "0fabe4cbd9ddbc12c53cba9d8cc89ebfc0559640eaff360ad2f4c1cbd7f9c51b"
+      }
+    }
+  },
+  "schema": 1
+}
