@@ -1,8 +1,8 @@
 {
   "notices": [
     {
-      "id": "nikke-launcher-2026-11",
-      "text": "Reports say NIKKE's PC launcher is loading malware from Level Infinite's servers (not yet confirmed by the publisher). Do not open it, also not through Nadare. If you did since Nov 2, look for k2f_chan in Launcher/intl_service/debug.log.",
+      "id": "nikke-launcher-2026-11b",
+      "text": "NIKKE's PC launcher was compromised through the publisher's servers; the attacker's agent was served from Nov 1. Two of three bad files are fixed, no official statement yet. If you opened it since Nov 1, search debug.log for k2f_chan. Nadare won't start it.",
       "severity": "block",
       "kinds": [
         "launcher-nikke"
