@@ -1,9 +1,9 @@
 {
   "notices": [
     {
-      "id": "nikke-launcher-2026-11d",
-      "text": "Do not launch the NIKKE PC launcher, in Nadare or anywhere else. It was compromised via the publisher's servers: bad scripts since Sep 27, and on some launches (seen from Oct 24) a remote-control agent. Partly fixed. If you opened it since Sep 27, search debug.log for k2f_chan.",
-      "severity": "block",
+      "id": "nikke-launcher-2026-11e",
+      "text": "Level Infinite confirmed its NIKKE PC launcher scripts were tampered with and says it fixed them on Nov 4. Before opening it, delete the launcher's tbs_cache folder. If you opened it since Sep 27, search debug.log for k2f_chan; if found, change passwords from another device.",
+      "severity": "warn",
       "kinds": [
         "launcher-nikke"
       ]
