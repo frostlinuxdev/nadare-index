@@ -14,6 +14,11 @@
       "x86_64": {
         "sha256": "0a1c1db8fd1b150b3f83efa15605bab2ce96bb01eedfa79adfe21513b496334b"
       }
+    },
+    "0.1.0b23": {
+      "x86_64": {
+        "sha256": "c3dbcb5e94f36e7cf464c06b4fb293c4e800618b28c8a9c4a9a236965cbd0629"
+      }
     }
   },
   "schema": 1
