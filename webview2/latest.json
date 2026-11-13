@@ -1,12 +1,12 @@
 {
   "sha256": [
+    "1d1c838e5971343c060415da7c630c3c1ca7ad33fbb61cca660f3c1122f4cca8",
     "1be9d2926954d99dd62653a22efe813160fe0c40f1e422b44e6aaf5473f68eec",
     "2688308af55753c62fda4e8140024e230c1ffc16b7c091b25889572f38dff6e8",
-    "62863f0f0611a16ccf124b4f15650c3b66624504eba74d7cde1e2ae5d951249b",
-    "f9d45cf7bef9576d6df50c7a7525e0bc8c26b6c3bc2c667b494aafb062a35b6f"
+    "62863f0f0611a16ccf124b4f15650c3b66624504eba74d7cde1e2ae5d951249b"
   ],
-  "url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/199041ce-790a-4bbc-9111-b81b4c926e9f/MicrosoftEdgeWebView2RuntimeInstallerX64.exe",
-  "size": 214990032,
-  "last_modified": "Tue, 10 Nov 2026 01:19:20 GMT",
-  "checked_at": 1794273789
+  "url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/14f2cd10-e392-45ff-a699-5e08c803d4c7/MicrosoftEdgeWebView2RuntimeInstallerX64.exe",
+  "size": 215195856,
+  "last_modified": "Fri, 13 Nov 2026 01:05:16 GMT",
+  "checked_at": 1794532065
 }
