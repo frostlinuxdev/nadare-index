@@ -16,8 +16,12 @@
     {
       "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/d92ba4fe3dba7df30803e33754522b5f.png",
       "url": "https://yostar.store/collections/arknights"
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/8493bf86bb5b569eb54b10e36c435e86.png",
+      "url": "https://yostar.store/collections/arknights"
     }
   ],
   "game_tag": "Arknights_EN",
-  "generated_at": "2026-11-06T05:27:47+00:00"
+  "generated_at": "2026-11-13T07:08:20+00:00"
 }
