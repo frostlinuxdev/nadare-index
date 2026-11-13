@@ -7,6 +7,15 @@
       "kinds": [
         "launcher-nikke"
       ]
+    },
+    {
+      "id": "wuwa-380-leftovers",
+      "text": "Wuthering Waves shows \"Fatal error\" after updating to 3.8? An older Nadare left the old 3.7 files in the game folder (about 26 GB). Update Nadare to 0.1.0b23, then open Wuthering Waves and press Repair files: it removes them.",
+      "severity": "warn",
+      "kinds": [
+        "direct-wuwa"
+      ],
+      "link": "https://github.com/frostlinuxdev/nadare/releases/tag/v0.1.0b23"
     }
   ]
 }
