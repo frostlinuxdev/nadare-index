@@ -15,6 +15,7 @@
       "kinds": [
         "direct-wuwa"
       ],
+      "below": "0.1.0b23",
       "link": "https://github.com/frostlinuxdev/nadare/releases/tag/v0.1.0b23"
     }
   ]
