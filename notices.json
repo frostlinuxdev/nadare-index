@@ -1,14 +1,6 @@
 {
   "notices": [
     {
-      "id": "nikke-launcher-2026-11e",
-      "text": "Level Infinite confirmed its NIKKE PC launcher scripts were tampered with and says it fixed them on Nov 4. Before opening it, delete the launcher's tbs_cache folder. If you opened it since Sep 27, search debug.log for k2f_chan; if found, change passwords from another device.",
-      "severity": "warn",
-      "kinds": [
-        "launcher-nikke"
-      ]
-    },
-    {
       "id": "wuwa-380-leftovers",
       "text": "Wuthering Waves shows \"Fatal error\" after updating to 3.8? An older Nadare left the old 3.7 files in the game folder (about 26 GB). Update Nadare to 0.1.0b23, then open Wuthering Waves and press Repair files: it removes them.",
       "severity": "warn",
