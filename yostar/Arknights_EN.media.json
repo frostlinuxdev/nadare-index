@@ -1,16 +1,20 @@
 {
-  "background": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/launcher_background_img/1d85e6131489d6d173208a5214a231cd.png",
+  "background": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/launcher_background_img/fd886c3f327875dd9bc090cc9a1617cc.jpg",
   "banners": [
     {
-      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/b7b9d2a62044bfd3e2d49e5247e2c146.png",
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/d77ca70f76265cbe6c7c522906438472.jpg",
       "url": ""
     },
     {
-      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/2b9a80cb4fe0cc5b571b8887b7f8e2a8.png",
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/f2fdbd18ab3fdbd7718b46f9e81c7531.jpg",
       "url": ""
     },
     {
-      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/369ba31cc56aebf69e3dec86e1369bea.png",
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/95d0cd725010db9107591fc8a1996d2a.jpg",
+      "url": ""
+    },
+    {
+      "image": "https://launcher-pkg-ark-en.yo-star.com/prod/Arknights_EN/banner/d6dac67890a183b8838d215b91773d25.jpg",
       "url": ""
     },
     {
@@ -23,5 +27,5 @@
     }
   ],
   "game_tag": "Arknights_EN",
-  "generated_at": "2026-11-13T07:08:20+00:00"
+  "generated_at": "2026-11-17T06:48:03+00:00"
 }
