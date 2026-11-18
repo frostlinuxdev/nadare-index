@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "games": {
     "arknights-yostar": {
       "cover": [
@@ -263,16 +263,16 @@
     "direct-mongil": {
       "cover": [
         {
-          "url": "https://sgimage.netmarble.com/common/gamemediahub/uploads/2a3c4ed2-75bf-4267-93b9-a6cd32ab7b6e.png",
-          "orientation": "wide",
-          "width": 1886,
-          "height": 800
-        },
-        {
           "url": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/m3sm1772674620510.jpg",
           "orientation": "wide",
           "width": 1200,
           "height": 630
+        },
+        {
+          "url": "https://sgimage.netmarble.com/common/gamemediahub/uploads/2a3c4ed2-75bf-4267-93b9-a6cd32ab7b6e.png",
+          "orientation": "wide",
+          "width": 1886,
+          "height": 800
         }
       ],
       "wide": [
@@ -655,6 +655,114 @@
           "orientation": "wide",
           "width": 1200,
           "height": 630
+        }
+      ]
+    },
+    "direct-dna": {
+      "cover": [
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/0c19ce9b923d8f7ba1f49bbb57fa43dba56366a8/library_capsule_2x.jpg?t=1792462693",
+          "orientation": "portrait",
+          "width": 600,
+          "height": 900
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/0c19ce9b923d8f7ba1f49bbb57fa43dba56366a8/library_capsule.jpg?t=1792462693",
+          "orientation": "portrait",
+          "width": 300,
+          "height": 450
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/994c69e09684d4d63309ad23f27ea70cc7f29990/capsule_616x353_2x.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 1232,
+          "height": 706
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/994c69e09684d4d63309ad23f27ea70cc7f29990/capsule_616x353.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 616,
+          "height": 353
+        }
+      ],
+      "wide": [
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/cd5b2435c6a0bb340f2e2b283135e2f7fb038b1c/library_hero_2x.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 3840,
+          "height": 1240
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/cd5b2435c6a0bb340f2e2b283135e2f7fb038b1c/library_hero.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 1920,
+          "height": 620
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/ebb3a23d3f41acbaf18cef7fcb98cf12b7e70679/page_bg_raw.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 1438,
+          "height": 810
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950020/994c69e09684d4d63309ad23f27ea70cc7f29990/capsule_616x353_2x.jpg?t=1792462693",
+          "orientation": "wide",
+          "width": 1232,
+          "height": 706
+        }
+      ]
+    },
+    "direct-snowbreak": {
+      "cover": [
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/49b722dfcca0e3f1d16fcd39633651f470a9a027/library_capsule_2x.jpg?t=1769627290",
+          "orientation": "portrait",
+          "width": 600,
+          "height": 900
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/49b722dfcca0e3f1d16fcd39633651f470a9a027/library_capsule.jpg?t=1769627290",
+          "orientation": "portrait",
+          "width": 300,
+          "height": 450
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/30e5fec7ca1915e04b8943d038a3faaa4836549b/capsule_616x353_2x.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 1232,
+          "height": 706
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/30e5fec7ca1915e04b8943d038a3faaa4836549b/capsule_616x353.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 616,
+          "height": 353
+        }
+      ],
+      "wide": [
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/9e5bebd782bf67b980f116a4279b1d68a609b94b/library_hero_2x.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 3840,
+          "height": 1240
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/9e5bebd782bf67b980f116a4279b1d68a609b94b/library_hero.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 1920,
+          "height": 620
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/d49e4bcefd3a85d8ae49f48cf91e9b2a073a2932/page_bg_raw.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 1438,
+          "height": 810
+        },
+        {
+          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/30e5fec7ca1915e04b8943d038a3faaa4836549b/capsule_616x353_2x.jpg?t=1769627290",
+          "orientation": "wide",
+          "width": 1232,
+          "height": 706
         }
       ]
     }
