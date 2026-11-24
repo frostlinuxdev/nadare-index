@@ -10,5 +10,17 @@
     "sha256": "2f33bb2176b73b46bdcef022f584bc4c38c2da667b3545c64798e403c1005db6",
     "url": "StellaSora_EN.json",
     "version": "2.0.0"
+  },
+  "azurpromilia-jp-yostar": {
+    "media": "azurpromilia-jp-yostar.media.json",
+    "sha256": "e9e0065c9e6cb6835dbbf68e3e712698ac62453746d41735a0330b0825c135b4",
+    "url": "azurpromilia-jp-yostar.json",
+    "version": "1.0.1"
+  },
+  "hbr-yostar": {
+    "media": "hbr-yostar.media.json",
+    "sha256": "95aeeed29cfc3bc74a6fd74833c5cd943575e14d1eb0ae040a965dd6c1da3e17",
+    "url": "hbr-yostar.json",
+    "version": "4.0.3"
   }
 }
