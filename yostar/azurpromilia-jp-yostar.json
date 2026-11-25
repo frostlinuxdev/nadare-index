@@ -1,5 +1,5 @@
 {
-  "base_url": "https://launcher-pkg-azupro-jp.yo-star.com/AZUPRO_JP-1.0.1-game",
+  "base_url": "https://launcher-pkg-azupro-jp.yo-star.com/AZUPRO_JP-1.0.2-game",
   "files": [
     {
       "crc64": 14314441116453906296,
@@ -201477,9 +201477,9 @@
       "size": 1121792
     },
     {
-      "crc64": 11803175129198084299,
+      "crc64": 12112293477222269263,
       "path": "UnityPlayer.dll",
-      "size": 31928320
+      "size": 31934976
     },
     {
       "crc64": 367005624818857855,
@@ -201498,6 +201498,6 @@
     }
   ],
   "game_tag": "AZUPRO_JP",
-  "generated_at": "2026-11-24T20:08:23+00:00",
-  "version": "1.0.1"
+  "generated_at": "2026-11-25T15:41:49+00:00",
+  "version": "1.0.2"
 }

@@ -13,9 +13,9 @@
   },
   "azurpromilia-jp-yostar": {
     "media": "azurpromilia-jp-yostar.media.json",
-    "sha256": "e9e0065c9e6cb6835dbbf68e3e712698ac62453746d41735a0330b0825c135b4",
+    "sha256": "b0f2699ecb05affb9ac6c96cae8afe6c0902656aedb9d9651da647b97e80ef8a",
     "url": "azurpromilia-jp-yostar.json",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "hbr-yostar": {
     "media": "hbr-yostar.media.json",
