@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "kibotl-en",
+  "kind": "azurpromilia-jp-yostar",
+  "version": "v1.0-3219598",
+  "url": "https://github.com/KiboTL/text/releases/download/v1.0-3219598/en.zip",
+  "archive_sha256": "09d4c6c963a11fd1cd6c343b5248e5766467ea334711d2da59e2f2549e2d8de7",
+  "archive_size": 209477220,
+  "files": [
+    {
+      "member": "vstring.bytes",
+      "dest": "AzurPromiliaJP_Data/.res/raw_base_package/BundleFiles/z5xzl3cg6ao0ilpbzykexg.r",
+      "sha256": "45b1ee008fd8e3c496639fa2725629757b9c92740e0e15d37061fa3360fd2769",
+      "size": 140276465,
+      "before_sha256": "99b8129d49586d26745630a76423609123ddcb1a7aad3e0a971886b13336a878",
+      "before_size": 133622104
+    },
+    {
+      "member": "table_data.bytes",
+      "dest": "AzurPromiliaJP_Data/.res/raw_streaming_package/BundleFiles/fcl0wxz2z6hoffogv4xgzw.r",
+      "sha256": "fcba95daf5bca28611dcc4c6075f7cece104659c81679e9c7ddb613259c2199c",
+      "size": 28840170,
+      "before_sha256": "296c11b437e5817ae5144ecd6096e5884f4cf9c35b630a01aa9c33024839d599",
+      "before_size": 28840170
+    },
+    {
+      "member": "static-text.r",
+      "dest": "AzurPromiliaJP_Data/.res/default_package/BundleFiles/yr49bxop0f3reujfsmyfca.r",
+      "sha256": "6ac2e19c3abd7c68f19c2d8365b8ee268f1142f335296ae2a341d1cc9d0a7b4a",
+      "size": 4993892,
+      "before_sha256": "701f04842f5156da177bd4946a1cf9b7c055f2a614003c2c13c8567fa14e0fc3",
+      "before_size": 4993892
+    },
+    {
+      "member": "startup.r",
+      "dest": "AzurPromiliaJP_Data/StreamingAssets/.res/static_package/6pq4a7hlp7zidu91dvvww.r",
+      "sha256": "52e8db57f9bd3945f79ad361f170f57017a81d16da9f587003f99c73b1957f8f",
+      "size": 58707878,
+      "before_sha256": "c7c80b98b263f161583a2ab52a5b7039636acbabcac8c365f9f37224d11bc4b3",
+      "before_size": 58707878
+    },
+    {
+      "member": "onest-font.r",
+      "dest": "AzurPromiliaJP_Data/StreamingAssets/.res/default_package/hqqoy0ojvzpggukcf5m85w.r",
+      "sha256": "3bcb7f1a425c2a4d5075b4478cc3aa0aea66ca72192e1c0bebdf229fe530da7d",
+      "size": 5109385,
+      "before_sha256": "a584d52f66f66a32dc2a2e9bfd7a119eed10290fc79795b6730896a5440d2a7f",
+      "before_size": 5109385
+    }
+  ]
+}
