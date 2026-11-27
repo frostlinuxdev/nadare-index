@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-27",
   "games": {
     "arknights-yostar": {
       "cover": [
@@ -763,6 +763,42 @@
           "orientation": "wide",
           "width": 1232,
           "height": 706
+        }
+      ]
+    },
+    "hbr-yostar": {
+      "cover": [
+        {
+          "url": "https://launcher-pkg-hbr-en.yo-star.com/prod/HBR_EN/launcher_background_img/5b71e2b1a53cc058ae3d245b4999803c.png",
+          "orientation": "wide",
+          "width": 1280,
+          "height": 734
+        }
+      ],
+      "wide": [
+        {
+          "url": "https://launcher-pkg-hbr-en.yo-star.com/prod/HBR_EN/launcher_background_img/5b71e2b1a53cc058ae3d245b4999803c.png",
+          "orientation": "wide",
+          "width": 1280,
+          "height": 734
+        }
+      ]
+    },
+    "azurpromilia-jp-yostar": {
+      "cover": [
+        {
+          "url": "https://launcher-pkg-azupro-jp.yo-star.com/prod/AZUPRO_JP/launcher_background_img/794bc729cf5682f946a4e1b8d5c0e8c8.png",
+          "orientation": "wide",
+          "width": 1280,
+          "height": 734
+        }
+      ],
+      "wide": [
+        {
+          "url": "https://launcher-pkg-azupro-jp.yo-star.com/prod/AZUPRO_JP/launcher_background_img/794bc729cf5682f946a4e1b8d5c0e8c8.png",
+          "orientation": "wide",
+          "width": 1280,
+          "height": 734
         }
       ]
     }
